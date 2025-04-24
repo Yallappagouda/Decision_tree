@@ -33,7 +33,6 @@ Each sample has 4 features:
 ## 📁 Project Structure + Setup
 
 decision-tree-iris/
-│
 ├── decision_tree_iris.py       
 ├── README.md                     
 └── requirements.txt    
@@ -71,7 +70,8 @@ A plotted decision tree displayed via matplotlib
 
 🌳 Visualization Example
 
-![Screenshot 2025-04-24 230632](https://github.com/user-attachments/assets/e4912d3a-9559-4e03-9773-e34e08c99bee)
+[Screenshot 2025-04-24 230632](https://github.com/user-attachments/assets/9e0508ec-83c7-47f7-8383-16010aa589ba)
+
 
 
 
