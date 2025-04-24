@@ -13,6 +13,16 @@ We use the built-in `load_iris()` dataset from sklearn.
 5. Evaluate accuracy
 6. Plot the tree
 
+##Project Structure
+Blossomtree
+│
+├── decision_tree_iris.py         # main script (for VS Code)
+├── README.md                     # project overview
+└── requirements.txt              # dependencies
+
+
+
+
 ## 🔧 How to Run
 
 ```bash
@@ -21,6 +31,7 @@ python decision_tree_iris.py
 
 ##output
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f1edcd9a-62a1-42ae-9909-9fb8ab99bf38)
+
 
 
