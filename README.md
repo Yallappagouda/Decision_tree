@@ -71,7 +71,8 @@ A plotted decision tree displayed via matplotlib
 
 🌳 Visualization Example
 
-![Screenshot 2025-04-24 230632](https://github.com/user-attachments/assets/9239f1ff-2f74-4106-8f48-075203fb3c7b)
+![Screenshot 2025-04-24 230632](https://github.com/user-attachments/assets/e4912d3a-9559-4e03-9773-e34e08c99bee)
+
 
 
 
