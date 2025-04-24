@@ -71,6 +71,36 @@ A plotted decision tree displayed via matplotlib
 
 🌳 Visualization Example
 ![Screenshot 2025-04-24 230632](https://github.com/user-attachments/assets/c552ef89-1e99-48e1-804c-24b10ad01e4d)
+Features:
+    sepal length (cm)  sepal width (cm)  petal length (cm)  petal width (cm)
+0                5.1               3.5                1.4               0.2
+1                4.9               3.0                1.4               0.2
+2                4.7               3.2                1.3               0.2
+3                4.6               3.1                1.5               0.2
+4                5.0               3.6                1.4               0.2
+
+Target:
+ 0    0
+1    0
+2    0
+3    0
+4    0
+dtype: int64
+
+Accuracy: 1.0
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        10
+           1       1.00      1.00      1.00         9
+           2       1.00      1.00      1.00        11
+
+    accuracy                           1.00        30
+   macro avg       1.00      1.00      1.00        30
+weighted avg       1.00      1.00      1.00        30
+
+
 
 
 
