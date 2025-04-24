@@ -33,6 +33,7 @@ Each sample has 4 features:
 ## 📁 Project Structure + Setup
 
 decision-tree-iris/
+
 ├── decision_tree_iris.py       
 ├── README.md                     
 └── requirements.txt    
@@ -69,8 +70,9 @@ Accuracy score and classification report in the terminal
 A plotted decision tree displayed via matplotlib
 
 🌳 Visualization Example
+![Screenshot 2025-04-24 230632](https://github.com/user-attachments/assets/c552ef89-1e99-48e1-804c-24b10ad01e4d)
 
-[Screenshot 2025-04-24 230632](https://github.com/user-attachments/assets/9e0508ec-83c7-47f7-8383-16010aa589ba)
+
 
 
 
